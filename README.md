@@ -2,7 +2,7 @@
 
 [![Screenshot](./preview.png)](https://github.com/guiliberali/guiliberali.github.io)
 
-I am a researcher and professor at Erasmus University and visiting researcher ("wetenschappelijk onderzoeker") at Erasmus Medical Center.  
+I am a researcher and professor at Erasmus University and visiting researcher ("wetenschappelijk onderzoeker") at the Erasmus Medical Center.  
 I like to solve thorny problems in sequential decision-making, such as adaptive trials (clinical trials and marketing and advertising experiments), personalization, and recommendation systems.
 My expertise lies in areas that are growing in importance in marketing science including multi-arm bandits, reinforcement learning, Bayesian learning,  and machine learning.
  
