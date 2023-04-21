@@ -12,10 +12,10 @@ My editorial experience includes editing a special issue of Management Science o
 My on-going research projects include arm design for multi-armed bandits, fairness in bandits, seeding and targeting bandits, and adaptive clinical trials.
  
 ## Some more details   
-- [** Publications**](https://github.com/guiliberali/guiliberali.github.io/publications)
-- [** Editorial Service**](https://github.com/guiliberali/guiliberali.github.io/service)
-- [** Projects**](https://github.com/guiliberali/guiliberali.github.io/projects)
-- [** Talks**](https://github.com/guiliberali/guiliberali.github.io/talks)
+- [Publications](https://github.com/guiliberali/guiliberali.github.io/publications)
+- [Editorial Service](https://github.com/guiliberali/guiliberali.github.io/service)
+- [Projects](https://github.com/guiliberali/guiliberali.github.io/projects)
+- [Talks](https://github.com/guiliberali/guiliberali.github.io/talks)
 
 
 ## Startups Public speaking
