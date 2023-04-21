@@ -19,6 +19,7 @@ My on-going research projects include arm design for multi-armed bandits, fairne
 
 
 ## Startups Public speaking
+
 I support machine learning Dutch-based startups on multi-armed bandits, natural language processsing and on the design and execution of optimal clinical trials. I also did litigation work and consulting on machine learning-related topics.
 
 For lalks and public engagement on #machinelearning, #adativeclinicaltrials, #personalization, #marketingscience, #onlineadvertising, and #artificialintelligence please reach out at liberali@rsm.nl. 
