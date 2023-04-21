@@ -18,11 +18,11 @@ My on-going research projects include arm design for multi-armed bandits, fairne
 - [Talks](https://github.com/guiliberali/guiliberali.github.io/talks)
 
 
-## Start-ups & Public speaking
+## Start-ups & public speaking
 
 I support machine learning Dutch-based startups on multi-armed bandits, natural language processsing and on the design and execution of optimal clinical trials. I also did litigation work and consulting on machine learning-related topics.
 
-For lalks and public engagement on #machinelearning, #adaptativeclinicaltrials, #personalization, #marketingscience, #onlineadvertising, and #artificialintelligence please reach out at liberali@rsm.nl. 
+For talks and public engagement on #machinelearning, #adaptiveclinicaltrials, #personalization, #marketingscience, #onlineadvertising, and #artificialintelligence please contact me liberali@rsm.nl. 
 
  
 
